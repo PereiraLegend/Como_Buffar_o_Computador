@@ -1,0 +1,195 @@
+⠀⠀
+⠀⠀⣠⣎⣀⣀⣠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⡄⠀⠀⠀⠀
+⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠀⠀⠀
+⠀⠀⠀⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⡿⠏⠿⠿⠿⠿⠿⣿⣿⣿⣿⣿⣿⡆⠀⠀
+⠀⠀⠀⣿⣿⣿⣿⣿⣿⡿⢿⠋⠉⠀⠀⠀⠀⠀⡀⠀⠀⠘⢿⣿⣿⣿⣿⣧⠀⠀
+⠀⠀⢰⣿⣿⣿⣿⠟⢁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠇⠀⠀⡈⠀⠻⣿⣿⣿⣿⠀⠀
+⠀⠀⣼⣿⣿⡿⠁⠀⢸⠀⠈⢳⣶⣤⣄⠀⠈⠀⠁⠀⠀⠀⢀⠀⠹⣿⣿⡟⠀⠀
+⠀⠀⣿⣿⣿⠀⠀⠈⣼⡇⠀⠘⠻⠟⠁⠀⠀⠀⠀⢤⣀⡀⠌⠀⠀⣿⣿⠃⠀⠀
+⠀⠀⣿⣿⣿⡀⠀⠀⡏⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⡿⠋⢰⢠⣿⡏⠀⠀⠀-- Make your Windows fly!
+⠀⠀⣿⣿⣿⡇⠀⠀⢷⡃⠀⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣯⣾⡟⠀⠀⠀⠀
+⠀⠀⣿⣿⣿⡿⠀⠀⣼⣿⡄⠀⠈⠀⢑⠶⠀⠀⠀⠀⢀⣾⣿⣿⣿⡇⠀⠀⠀⠀
+⠀⠀⣿⣿⣿⠁⠀⠀⣿⣿⠁⠀⠀⠀⢀⣀⣠⣤⣤⣴⠟⣿⣿⣿⣿⡇⠀⠀⠀⠀
+⠀⠀⠙⢿⠃⠀⠀⢸⣿⣟⠀⠀⢀⣤⣾⣿⣿⣿⠟⠁⢰⣿⣿⣿⣿⠃⠀⠀⠀⠀
+⠀⠀⠠⠴⠀⠀⠀⠿⠿⠿⠧⠾⠿⠿⠿⠿⠿⠃⠀⠀⠾⠿⠿⠟⠁⠀
+
+►►► Cake Recipe To buff Windows 10 ""by - Pereira"":
+
+[]~(￣▽￣)~* >>Follow the tips!!!>>
+
+• Win + R ---> msconfig ---> system startup ---> Advanced ---> Enable all cores
+	⚠ (Note: This is an overclock)
+• Win + R ---> msconfig ---> Services ---> Hide All Microsoft Services ---> Disable All Non-Microsoft Services
+• Win + R ---> msconfig ---> General ---> Selective Startup ---> Load system services + Load startup items
+• Get rid of One Drive, it's very consuming and inconvenient
+• Task Manager ---> Start ---> Disable Windows Startup
+• Task Manager ---> Services ---> Open Services (below) ---> Click on top --> Select Startup Type ---> Disabled + Stop ---> Those services that should suffer these changes are: User Experience Connected to Telemetry, Diagnostic Policy Service, Windows Search and SysMain
+	⚠ (Note: Disabled Windows Search can interfere with streaming on tv, and windows media player network sharing service, and SysMain it stops trying to improve the machine over time)
+• Background Apps ---> Disable permission to run apps in the background, and disable all
+• Notifications and Actions Settings ---> Disable All
+• Multitasking ---> Disable Timeline
+• Shared Experiences ---> Disable Share Across Devices
+	⚠ (Note: Optional)
+• To gain more FPS at a specific time, press Control + Win + Shift + B
+• In Google Chorme, Microsoft Edge or any other browser ---> System ---> disable quick launch + disable background running
+• To check disk Win + R ---> Type mrt ---> Examine disk
+• To enable Win 10 performance mode, ---> Adjust Windows Appearance and Performance ---> Adjust for better performance ---> apply
+• Settings ---> Update & Security ---> Check for Pending Updates
+• Click Start or Windows key ---> Type "Defragment and Optimize Drives" ---> Select your HD drives or partitions ---> Click optimize on each one
+	⚠ (Note: This will reorganize the hard drive of files,improving access speed)
+• To Install More Drivers Outside Windows Install Driver Booster
+• To improve CPU management Install ParkControl (https://bitsum.com/parkcontrol/), there choose the Bitsum Highest Performance power plan
+• Edit Power Plan ---> Power Options (Button will be above) ---> Choose High Performance, or if you have a better one, like Bitsum
+	⚠ (Note: Pay close attention so that it doesn't use too much or too little, as it can increase the processor's base temperature)
+• To improve mouse response time Install ISLC (https://www.wagnardsoft.com/forums/viewtopic.php?t=1256), In ISLC (Intelligent standby list cleaner) ---> Check if Current timer resolution is close to or below 1 (The lower the better) ---> Click Purge Standby list ---> Select "Enable custom timer resolution" -- -> In "Free memory is lower than" Enter the value of half your ram memory, In "Wanted timer resolution" Enter 0.5, and In "ISLC polling Rate (ms)" Choose 500 ---> Select Start ISLC minimized and auto-Start monitoring ---> After that press Start and minimize
+	⚠ (Note: You may need to do this every time you play)
+	⚠ (Note: Optional)
+
+►►► Cake Recipe To buff Windows 7 ""by - Pereira"":
+
+<(￣ c￣)y▂ξ >>Note.: Windows 10 is based on windows 7, so some of the above optimizations also work for windows 7>>
+
+• On Desktop ---> Left mouse button ---> Customize ---> Select Windows 7 Basic theme under Themes and High Contrast
+• Press the windows key and type "Windows Defender" ---> Under "Tools" ---> Click Options ---> Disable "Scan My Computer Automatically"
+• Press the windows key and type "services.msc", run the file ---> In Services access the security center ---> Look for "Security Center Properties" ---> When clicking, disable the "Type of Startup", then click ok
+• Press the windows key and type "Disk Defragmenter"---> Click "Configure Schedule" ---> Under "Disk Defragmenter" look for "Change Schedule" ---> Disable "Run on schedule" ---> Ok
+• If you want more normal memory (without ram) and your computer has USB 2.0, Activate Read Boost
+	⚠ (Note: Does not change the performance)
+
+o(*￣︶￣*)o >>After that your pc is like...:>>
+
+⠄⠄⠄⢰⣧⣼⣯⠄⣸⣠⣶⣶⣦⣾⠄⠄⠄⠄⡀⠄⢀⣿⣿⠄⠄⠄⢸⡇⠄⠄
+⠄⠄⠄⣾⣿⠿⠿⠶⠿⢿⣿⣿⣿⣿⣦⣤⣄⢀⡅⢠⣾⣛⡉⠄⠄⠄⠸⢀⣿⠄ 
+⠄⠄⢀⡋⣡⣴⣶⣶⡀⠄⠄⠙⢿⣿⣿⣿⣿⣿⣴⣿⣿⣿⢃⣤⣄⣀⣥⣿⣿⠄ 
+⠄⠄⢸⣇⠻⣿⣿⣿⣧⣀⢀⣠⡌⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠿⠿⣿⣿⣿⠄ 
+⠄⢀⢸⣿⣷⣤⣤⣤⣬⣙⣛⢿⣿⣿⣿⣿⣿⣿⡿⣿⣿⡍⠄⠄⢀⣤⣄⠉⠋⣰ 
+⠄⣼⣖⣿⣿⣿⣿⣿⣿⣿⣿⣿⢿⣿⣿⣿⣿⣿⢇⣿⣿⡷⠶⠶⢿⣿⣿⠇⢀⣤ 
+⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣽⣿⣿⣿⡇⣿⣿⣿⣿⣿⣿⣷⣶⣥⣴⣿⡗ 
+⢀⠈⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠄ 
+⢸⣿⣦⣌⣛⣻⣿⣿⣧⠙⠛⠛⡭⠅⠒⠦⠭⣭⡻⣿⣿⣿⣿⣿⣿⣿⣿⡿⠃⠄ 
+⠘⣿⣿⣿⣿⣿⣿⣿⣿⡆⠄⠄⠄⠄⠄⠄⠄⠄⠹⠈⢋⣽⣿⣿⣿⣿⣵⣾⠃⠄ 
+⠄⠘⣿⣿⣿⣿⣿⣿⣿⣿⠄⣴⣿⣶⣄⠄⣴⣶⠄⢀⣾⣿⣿⣿⣿⣿⣿⠃⠄⠄ 
+⠄⠄⠈⠻⣿⣿⣿⣿⣿⣿⡄⢻⣿⣿⣿⠄⣿⣿⡀⣾⣿⣿⣿⣿⣛⠛⠁⠄⠄⠄ 
+⠄⠄⠄⠄⠈⠛⢿⣿⣿⣿⠁⠞⢿⣿⣿⡄⢿⣿⡇⣸⣿⣿⠿⠛⠁⠄⠄⠄⠄⠄ 
+⠄⠄⠄⠄⠄⠄⠄⠉⠻⣿⣿⣾⣦⡙⠻⣷⣾⣿⠃⠿⠋⠁⠄⠄⠄⠄⠄⢀⣠⣴ 
+⣿⣿⣿⣶⣶⣮⣥⣒⠲⢮⣝⡿⣿⣿⡆⣿⡿⠃⠄⠄⠄⠄⠄⠄⠄⣠⣴⣿⣿⣿
+
+►►► Your PC is trash, literally trash! and none of the above solved it, try other operating systems:
+
+(〜￣▽￣)〜 >>It will work! There's always a way! Relax!>>
+
+• Windows 7 Sun Valley version (It's a super modified windows 7, which only takes 500mb of ram ""Perfect for systems with 2 ram and 2-core processors"", in addition to being super optimized!, but it doesn't come with some specific files, but if it's to make your pc live, then it's valid)
+	⚠ (Warning: Not an Official Windows)
+• Windows 7 Lite version (It's almost the same as above)
+	⚠ (Warning: Not an Official Windows)
+• Windows 10 Sun Valley version (Slightly heavier than the previous one as it is a modification of 10, but it is valid with the same type of changes for the optimization)
+	⚠ (Warning: Not an Official Windows)
+• Linux Mint (Depending on the version and architecture it's very light, it's perfect to work with, it has versions based on Debiam and Unbutu)
+	⚠ (Note: Download only from the official website)
+• Linux Fedora Games (Perfect for games if you just want to play games)
+	⚠ (Note: Download only from the official website)
+• Regata OS (An official linux created by Brazilians!, is very good for hardware with more than 4Gb of ram, and Dual core processor with 2GHz or more, 64-bit architecture)
+	⚠ (Note: Download only from the official website)
+
+►►► Configure Video Cards:
+
+(づ￣ 3￣)づ >>Goes according to your "toc", but if you want to follow a line, as the dwarf Dwarf Calvo Bonbado uses>>
+
+b(￣ ▽ ￣)d >>Before that, Go to 3D Settings ---> Manage 3D Settings ---> Global Settings >>
+
+• Reference Value: Bonbado Calvo Dwarf Board - NVDIA GeForce GTX 1060 3GB
+
+|Image Scaling ---> Disable
+|Anti-aliasing - FXAA ---> Off
+|Anti-aliasing - configuration ---> None
+|Anti-aliasing - gamma correction ---> On
+|Anti-aliasing - mode ---> Off
+|Anti-aliasing - transparency ---> Off
+|Triple buffering ---> Off
+|CUDA - GPUs ---> All
+|DSR - Factors ---> Off
+|DSR - Smoothness ---> Off
+|Anisotropic filtering ---> Off
+|Texture Filtering - Negative Differential ---> Allow
+|Texture filtering - anisotropic optimization ---> On
+|Texture filtering - trilinear optimization ---> On
+| Texture filtering - quality ---> Quality
+|GPU with OpenGL rendering ---> Auto-select
+|Power management mode ---> Optimal power
+|Low latency mode ---> Off
+|Multi-Frame Sampled AA (MFAA - Smoothing) ---> Off
+|Ambient occlusion ---> Off
+| Segmented optimization ---> Auto
+|Virtual Reality pre-rendered frames ---> 1
+|Vertical Sync ---> Off
+|Shadows Maker Cache Size ---> Driver Default
+|Maximum Frame Rate ---> Off
+|Maximum application frame rate in ... ---> Off
+
+• Reference value: Pereira Plate - NVDIA GeForce GTX 1650 4GB
+
+|Image Scaling ---> Enable
+|Anti-aliasing - FXAA ---> Off
+|Anti-aliasing - configuration ---> Controlled by application
+|Anti-aliasing - gamma correction ---> On
+|Anti-aliasing - mode ---> Controlled by application
+|Anti-aliasing - transparency ---> Off
+|Triple buffering ---> On
+|CUDA - GPUs ---> All
+|DSR - Factors ---> Off
+|DSR - Smoothness ---> Off
+|Anisotropic filtering ---> Controlled by application
+|Texture Filtering - Negative Differential ---> Allow
+|Texture filtering - anisotropic optimization ---> On
+|Texture filtering - trilinear optimization ---> On
+| Texture filtering - quality ---> High performance
+|GPU with OpenGL rendering ---> NVIDIA Geforce GTX 1650
+|Power management mode ---> Adaptable
+|Low latency mode ---> Ultra
+|Multi-Frame Sampled AA (MFAA - Smoothing) ---> Off
+|Ambient occlusion ---> Off
+| Segmented optimization ---> Auto
+|Virtual Reality pre-rendered frames ---> 1
+|Virtual Reality - Variable Rate Supersampling ---> Off
+|Vertical Sync ---> Use 3D application setting
+|Shadows Maker Cache Size ---> Driver Default
+|Maximum Frame Rate ---> Off
+|Preferred refresh rate ---> Highest available
+|Maximum application frame rate in ... ---> Off
+
+►►► Don't be alarmed if shit goes wrong, we have emergency measures for that:
+
+(* ￣︿￣) >>If something is not right...>>
+
+• Open cmd as administrator ---> run the command "chkdsk" (It will check the hd files)
+• Open cmd as administrator ---> run the command "chkdsk /f" and "chkdsk /r" (It will repair the system)
+• Open cmd as administrator ---> run the command "sfc /scannow" (It will fix numerous corrupt programs and random files and such)
+• press the windows key ---> type "mrt" ---> Select the option you want to scan the computer (It will look for viruses on the computer)
+
+►►► To Format Discs:
+
+（￣ ︶ ￣）↗　 >>Very useful tip for USB sticks>>
+
+• Open cmd as administrator ---> run the commands one after the other ---> "disk part" ---> "list disk" ---> "select disk :C\" ---> "clean " ---> "create partition primary" ---> "active" ---> "format quick" ---> "assign" ---> "exit"
+
+►►► Still not satisfied with the improvements and want to play more? Then activate God mode and be happy:
+
+(￣_￣|||) >>Caution! With great power comes great responsibility!!>>
+
+• To enable it: Create a folder on the desktop with the name "{ED7BA470-8E54-465E-825C-99712043E01C}" ---> Press Enter and then click on the icon that was created ---> ... And be happy
+
+►►► Final Considerations:
+
+       |\____|\            
+　　　　　| 　_　 _|  
+　 　　　／`ミ _x 彡 -by: ~Pereira
+　　 　 /　　　 |
+　　　 /　 ヽ　　 ﾉ
+　／￣|　　 |　|　|
+　| (￣ヽ＿_ヽ_)_)
+　＼二つ
+
+- Credits: Guinea Pig 01 - Cadim
+            Guinea pig 02 - Selma
+            Collaborator 01 -
+Bonbado bald dwarf
